@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "redis": "^3.1.2"
-  }
+  },
+  "type": "module"
 }
